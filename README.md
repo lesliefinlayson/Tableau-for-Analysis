@@ -28,3 +28,18 @@ On further breaking down graph 1 from general "users" to the subcategories "user
 <img width="673" alt="2021-09-25 (7)" src="https://user-images.githubusercontent.com/84471904/134785805-4bd652c7-b31a-41e1-ac6e-def34882b39d.png">
 
 The Citi Bike data was broken out by gender to see if there are differing trends.  The data shows a higher number of males are using the bike share program.
+
+#### _Graph 4:  Trips by Weekday per Hour_
+
+<img width="311" alt="2021-09-25 (9)" src="https://user-images.githubusercontent.com/84471904/134785932-17997cfe-e0e8-4ede-bd8d-5969875a404a.png">
+
+This heat map shows that the busiest hours for bike share trips are commuting hours on the weekdays, 8 am and 5 to 6 pm showing highest use (indicated by darkest color).  As to be expected, the least amount of use (shown by the lightest colors) are in the early am hours.  In addition, the weekends show moderately high use mid day through evening.  
+
+
+
+
+
+
+
+
+
