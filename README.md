@@ -22,3 +22,9 @@ Data shows that between 4 and 6 hours are the most popular length for bike check
 <img width="630" alt="2021-09-25 (5)" src="https://user-images.githubusercontent.com/84471904/134785714-d45a1b2b-2971-44b1-b46d-1c4070d610ea.png">
 
 On further breaking down graph 1 from general "users" to the subcategories "usertypes", can see that the majority of the participants of the bike share program are subscribers.
+
+#### _Graph 3:  Checkout Times by Gender_
+
+<img width="673" alt="2021-09-25 (7)" src="https://user-images.githubusercontent.com/84471904/134785805-4bd652c7-b31a-41e1-ac6e-def34882b39d.png">
+
+The Citi Bike data was broken out by gender to see if there are differing trends.  The data shows a higher number of males are using the bike share program.
