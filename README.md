@@ -9,4 +9,11 @@ To further determine if a bike sharing program is a feasible investment in Des M
 ## Results
 
 The following graphs were generated from the Citi Bike data and tell the story of bike sharing use in New YOrk City:
-__ 1.  Checkout Times by Users__
+
+#### _Checkout Times by Users_
+
+<img width="714" alt="2021-09-25 (2)" src="https://user-images.githubusercontent.com/84471904/134785428-a5ac75dd-5c58-4adf-8bcd-3c7580ecce6a.png">
+
+Data shows that between 4 and 6 hours are the most popular length for bike checkouts.  The peak time duration for bike checkout is at 5 hours with 173,712 users.  
+
+
