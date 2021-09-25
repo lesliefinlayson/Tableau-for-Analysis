@@ -18,3 +18,7 @@ The following graphs were generated from the Citi Bike data and tell the story o
 Data shows that between 4 and 6 hours are the most popular length for bike checkouts.  The peak time duration for bike checkout is at 5 hours with 173,712 users.  
 
 #### _Graph 2:  Checkout Times by Usertypes_
+
+<img width="630" alt="2021-09-25 (5)" src="https://user-images.githubusercontent.com/84471904/134785714-d45a1b2b-2971-44b1-b46d-1c4070d610ea.png">
+
+On further breaking down graph 1 from general "users" to the subcategories "usertypes", can see that the majority of the participants of the bike share program are subscribers.
