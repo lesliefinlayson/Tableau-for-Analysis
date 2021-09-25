@@ -36,6 +36,8 @@ The Citi Bike data was broken out by gender to see if there are differing trends
 This heat map shows that the busiest hours for bike share trips are commuting hours on the weekdays, 8 am and 5 to 6 pm showing highest use (indicated by darkest color).  As to be expected, the least amount of use (shown by the lightest colors) are in the early am hours.  In addition, the weekends show moderately high use mid day through evening.  
 #### _Graph 5:  Trips by Gender (Weekday per Hour)_
 
+<img width="719" alt="2021-09-25 (13)" src="https://user-images.githubusercontent.com/84471904/134788078-d37a3a30-e0ed-4c83-81ae-5dd745c2c67e.png">
+
 Exploring the data in Graph 4 further, trips by weekday per hour was explored by gender.  While both female and male use of the bike share program is conistent with the earlier findings, use is highest during commuting hours and moderately high on the weekends, the gradient of use is more extreme in the male category, as shown by the stronger contrast in graph colors.  
 
 #### _Graph 6:  User Trips by Gender and Usertype by Weekday_
@@ -44,8 +46,15 @@ Exploring the data in Graph 4 further, trips by weekday per hour was explored by
 
 Breaking down the data further in this graph, the customer usertype is fairly consistent for all days of the week, with slightly higher use on the weekends.  The subscriber category shows again that males have the highest number of trips (indicated by the darker colors).  For both male and female categories, Thursday shows highest use.  
 
+#### _Graph 7:  Trip Starting Locations by Use and Gender_
+
+<img width="711" alt="2021-09-25 (15)" src="https://user-images.githubusercontent.com/84471904/134788109-c8afcfae-83a0-463f-a1b9-e7dbe86e219f.png">
 
 
+
+#### _Graph 8:  Trip Ending Locations by Use and Gender_
+
+<img width="650" alt="2021-09-25 (17)" src="https://user-images.githubusercontent.com/84471904/134788164-0e0803f6-fc3d-4782-a002-7a23dd858d53.png">
 
 
 
