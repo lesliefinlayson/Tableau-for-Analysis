@@ -50,11 +50,18 @@ Breaking down the data further in this graph, the customer usertype is fairly co
 
 <img width="711" alt="2021-09-25 (15)" src="https://user-images.githubusercontent.com/84471904/134788109-c8afcfae-83a0-463f-a1b9-e7dbe86e219f.png">
 
+In this graph, the larger the marker the more use the bike station receives.  This graph shows that the highest used bike stations for the start of a trip are in the more developed and populated areas of New York City, such as Union Square.
 
+There is no obvious difference in bike station preference based on gender.   
 
 #### _Graph 8:  Trip Ending Locations by Use and Gender_
 
 <img width="650" alt="2021-09-25 (17)" src="https://user-images.githubusercontent.com/84471904/134788164-0e0803f6-fc3d-4782-a002-7a23dd858d53.png">
+
+This graph shows that the highest used bike stations for the end of a trip are also in the more developed and populated areas of New York City.
+
+There is no obvious difference in bike station preference based on gender.   
+
 
 
 
