@@ -74,7 +74,14 @@ This analysis uncovers several interesting trends in the bike share use in New Y
 
    This also suggests a consistent demand that supports that this is a viable program
 
-•	
+•	Exploring if there is a difference in gender use of the bike sharing program shows that men are higher consumers, which is shown in 4 graphs.  This is useful to know for determine type of bike to make available.  It also suggests an opportunity to find ways to make bike sharing programs more interesting to women to expand this part of the market.
+
+•	Looking at which bike stations have the heaviest use in both start and end times of a trip, it is clear that the developed areas of New York City are the most heavily used.  When the program is initiated in Des Moines, starting in the city's more urban centers would likely lead to more success.  
+
+_Other visualizations for future study:_
+
+1.  Further breakdown of Usertype preferences of bike station locations.  For example, college and university bike stations may receive heavy use from Subscribers (students, facility) but not be in the urban/developed areas.
+2.  Combine age with the gender studies to get even more insights on bike sharing partipants.  
 
 
 
