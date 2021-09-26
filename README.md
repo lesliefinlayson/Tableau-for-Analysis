@@ -68,11 +68,11 @@ This analysis uncovers several interesting trends in the bike share use in New Y
 
 •	There is a consistent demand for bikes in New York City’s Citi Bike program.  This is clearly shown in the “Trips by Weekday per Hour” graph, which shows there is high use during commuting hours, moderately high use on weekends, and steady use during mid-days.
 
-    Consistent demand is an excellent indicator that this is a good program to implement
+   Consistent demand is an excellent indicator that this is a good program to implement
 
 •	The “Checkout Times by Users” graph shows that the Subscribers subcategory are the highest users of bike sharing.  Subscribers are more likely to be residents that use bikes for commuting, recreation on a regular basis.  
 
-    This also suggests a consistent demand that supports that this is a viable program
+   This also suggests a consistent demand that supports that this is a viable program
 
 •	
 
