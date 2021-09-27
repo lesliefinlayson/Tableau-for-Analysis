@@ -2,13 +2,13 @@
 
 ## Background and Purpose of the Analysis
 
-A bike sharing program is a shared transport service niwhich bicyles are made available for shared use to individuals on a short term basis for a price or fee.  Users typically check out a bike using a membership or credit/debit card.  They can then ride to their destination and park the bike at a nearby docking station. The benefits of these programs include transport flexibility, reduction of vehicle emissions, health benefits, reduced congestion and fuel consumption, and financial savings for individuals.  At a community level, bike sharing is recognized as a means to attract or retain residents, students and workforce talent. Bike sharing serves visitors and is a unique way to experience a city, helping attract their spending power.   Local businesses and employers see benefits by experiencing increased economic activity in commercial areas surrounding bike share stations. 
+A bike sharing program is a shared transport service in which bicyles are made available for shared use to individuals on a short term basis for a price or fee.  Users typically check out a bike using a membership or credit/debit card.  They can then ride to their destination and park the bike at a nearby docking station. The benefits of these programs include transport flexibility, reduction of vehicle emissions, health benefits, reduced congestion and fuel consumption, and financial savings for individuals.  At a community level, bike sharing is recognized as a means to attract or retain residents, students and workforce talent. Bike sharing serves visitors and is a unique way to experience a city, helping attract their spending power.   Local businesses and employers see benefits by experiencing increased economic activity in commercial areas surrounding bike share stations. 
 
 To further determine if a bike sharing program is a feasible investment in Des Moines, this analysis explores New York City's Citi Bike data to reveal trends in bike sharing use.
 
 ## Results
 
-The following graphs were generated from the Citi Bike data and tell the story of bike sharing use in New YOrk City:
+The following graphs were generated from the Citi Bike data and tell the story of bike sharing use in New York City:
 
 #### _Graph 1:  Checkout Times by Users_
 
@@ -50,45 +50,17 @@ Breaking down the data further in this graph, the customer usertype is fairly co
 
 <img width="711" alt="2021-09-25 (15)" src="https://user-images.githubusercontent.com/84471904/134788109-c8afcfae-83a0-463f-a1b9-e7dbe86e219f.png">
 
-In this graph, the larger the marker the more use the bike station receives.  This graph shows that the highest used bike stations for the start of a trip are in the more developed and populated areas of New York City, such as Union Square.
+This graph shows that the bike stations that receive the most use at the beginning of a bike trip (as indicated by the size of the marker) are in populated and developed areas of New York City, such as Times Square and Central Park.  
 
-There is no obvious difference in bike station preference based on gender.   
+Gender does not appear to be a relevant factor.
 
 #### _Graph 8:  Trip Ending Locations by Use and Gender_
 
 <img width="650" alt="2021-09-25 (17)" src="https://user-images.githubusercontent.com/84471904/134788164-0e0803f6-fc3d-4782-a002-7a23dd858d53.png">
 
-This graph shows that the highest used bike stations for the end of a trip are also in the more developed and populated areas of New York City.
+This graph shows that the bike stations that receive the most use at the end of a bike trip (as indicated by the size of the marker) are in populated and developed areas of New York City, which mirrors the stations that receive the most use in the beginning of a trip explored in the previous graph.
 
-There is no obvious difference in bike station preference based on gender.   
-
-## Summary
-
-This analysis uncovers several interesting trends in the bike share use in New York City that are relevant to implementing a similar endeavor in Des Moines:
-
-•	There is a consistent demand for bikes in New York City’s Citi Bike program.  This is clearly shown in the “Trips by Weekday per Hour” graph, which shows there is high use during commuting hours, moderately high use on weekends, and steady use during mid-days.
-
-   Consistent demand is an excellent indicator that this is a good program to implement
-
-•	The “Checkout Times by Users” graph shows that the Subscribers subcategory are the highest users of bike sharing.  Subscribers are more likely to be residents that use bikes for commuting, recreation on a regular basis.  
-
-   This also suggests a consistent demand that supports that this is a viable program
-
-•	Exploring if there is a difference in gender use of the bike sharing program shows that men are higher consumers, which is shown in 4 graphs.  This is useful to know for determine type of bike to make available.  It also suggests an opportunity to find ways to make bike sharing programs more interesting to women to expand this part of the market.
-
-•	Looking at which bike stations have the heaviest use in both start and end times of a trip, it is clear that the developed areas of New York City are the most heavily used.  When the program is initiated in Des Moines, starting in the city's more urban centers would likely lead to more success.  
-
-_Other visualizations for future study:_
-
-1.  Further breakdown of Usertype preferences of bike station locations.  For example, college and university bike stations may receive heavy use from Subscribers (students, facility) but not be in the urban/developed areas.
-2.  Combine age with the gender studies to get even more insights on bike sharing partipants.  
-
-
-
-
-
-
-
+Gender does not appear to be a relevant factor.
 
 
 
