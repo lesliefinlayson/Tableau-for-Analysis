@@ -62,6 +62,16 @@ This graph shows that the bike stations that receive the most use at the end of 
 
 Gender does not appear to be a relevant factor.
 
+## Summary
+
+•	There is a consistent demand for bikes in New York City’s Citi Bike program.  This is clearly shown in the “Trips by Weekday per Hour” graph, which shows there is high use during commuting hours, moderately high use on weekends, and steady use during mid-days. Consistent demand is an excellent indicator that this is a good program to implement
+
+•	The “Checkout Times by Users” graph shows that the Subscribers subcategory are the highest users of bike sharing.  Subscribers are more likely to be residents that use bikes for commuting, recreation on a regular basis. This also suggests a consistent demand that supports that this is a viable program.
+
+Additional visualizations to consider:
+
+1.  To learn more about bike share users, the data showing trends by gender could be further explored through filtering by age.
+2.  Exploring the popularity of starting and ending bike stations by Usertype could be useful.  Subscribers (most likely to be NYC residents) may choose trips different from the urban centers, such as to commute to schools.   
 
 
 
