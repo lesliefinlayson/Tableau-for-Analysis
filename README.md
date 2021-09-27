@@ -73,5 +73,6 @@ Additional visualizations to consider:
 1.  To learn more about bike share users, the data showing trends by gender could be further explored through filtering by age.
 2.  Exploring the popularity of starting and ending bike stations by Usertype could be useful.  Subscribers (most likely to be NYC residents) may choose trips not located in the urban centers, such as to commute to schools.   
 
-
+Link to Tableau
+[link to dashboard](https://public.tableau.com/app/profile/leslie.finlayson/viz/Module14challenge/Story1?publish=yes)
 
